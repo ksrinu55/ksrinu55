@@ -7,32 +7,28 @@ With experience working on 1M+ real-world transactional records, I specialize in
 My CSE background gives me strong foundations in algorithms, databases, operating systems, and web technologies, enabling me to build end-to-end analytical solutions, not just visualizations.
 
 🚀 What I Bring as a Data Analyst
-Efficient SQL querying, schema design, and database optimization
-Advanced data cleaning & preprocessing using Python (Pandas, NumPy)
-Interactive BI dashboards in Power BI & Tableau
-KPI tracking, forecasting, and business insights generation
-Automation of reporting workflows, reducing manual effort
-Data modeling & ETL workflows for scalable analytics
+
+What I Bring to the Team
+I have hands-on experience working with large datasets, writing efficient SQL, building dashboards, and automating reporting workflows. My CSE background helps me understand how data systems work at a deeper level, and I focus on delivering insights that are accurate and genuinely useful. I learn quickly, adapt well to new environments, and can handle pressure when needed. I communicate openly, work well with teams, and consistently put in the effort to improve both my skills and the quality of my work.
 
 Foundations of ML, including feature engineering and domain adaptation
 My engineering background helps me understand data from both a technical and business impact perspective.
 
 🛠️ Technical Skills
+
 ⭐Data & Analytics
+
 Python (Pandas, NumPy, Matplotlib, Scikit-learn)
 SQL, MySQL
 Power BI, Tableau, Excel
 Data Modeling, ETL Pipelines, KPI Dashboards
 
 ⭐Computer Science Foundation
+
 HTML, CSS, JavaScript (for basic dashboards/UI integration)
 Operating Systems basics
 Algorithms, DBMS, Software Engineering principles
 Version Control: Git, GitHub
-
-💡 What I Bring to the Team
-I have hands-on experience working with large datasets, writing efficient SQL, building dashboards, and automating reporting workflows. My CSE background helps me understand how data systems work at a deeper level, and I focus on delivering insights that are accurate and genuinely useful. I learn quickly, adapt well to new environments, and can handle pressure when needed. I communicate openly, work well with teams, and consistently put in the effort to improve both my skills and the quality of my work.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/korra-srinu-94a31b2a3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:korrasrinu1018@gmail.com) 
