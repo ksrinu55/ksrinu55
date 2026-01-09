@@ -20,8 +20,10 @@ My engineering background helps me understand data from both a technical and bus
 
 Python (Pandas, NumPy, Matplotlib, Scikit-learn)
 SQL, MySQL
-Power BI, Tableau, Excel
+Power BI, Tableau, Advanced Excel
 Data Modeling, ETL Pipelines, KPI Dashboards
+Machine Learning
+Cloud Technology (AWS)
 
 ⭐Computer Science Foundation
 
