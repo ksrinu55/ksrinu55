@@ -22,7 +22,7 @@ Python (Pandas, NumPy, Matplotlib, Scikit-learn)
 SQL, MySQL
 Power BI, Tableau, Advanced Excel
 Data Modeling, ETL Pipelines, KPI Dashboards
-Machine Learning
+Machine Learning, 
 Cloud Technology (AWS)
 
 ⭐Computer Science Foundation
